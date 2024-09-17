@@ -1,4 +1,4 @@
-# Decimal to Binary, Binary to Decimal, etc.
+# Decimal to Binary, Binary to Decimal, Two's Compliment
 
 This was just a project that I completed for school, specifically CSCI 321 Assembly Language @ FHSU.
 
